@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramjeet Singh</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 <br>
 
 <p>I am currently pursuing my Bachelors in <i>Computer Science and Engineering</i> from <a href=https://pec.ac.in/>Punjab Engineering College.</a>
 <br>
-<a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:131f5f9c-cb89-4329-b42c-958f627b449d" target="blank">
+<a href="https://acrobat.adobe.com/link/file/?uri=urn%3Aaaid%3Asc%3AUS%3Aa10b3a16-aef6-4684-94ee-8517f808292b&filetype=application%2Fpdf&size=82132" target="blank">
 <img src = https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465> 
 </a>
 </p>
